@@ -1,0 +1,148 @@
+congresista	parapolitica0	parapolitica1
+Adriana Gutiérrez Jaramillo	1	0
+Alexander López Maya	0	0
+Alexandra Moreno Piraquive	0	0
+Alfonso Núñez Lapeira	0	0
+Alfonso Valdivieso Sarmiento	0	0
+Alirio Villamizar Afanador	0	0
+Álvaro Alfonso García Romero	1	1
+Álvaro Antonio Ashton Giraldo	0	0
+Álvaro Araújo Castro	1	1
+Antonio del Cristo Guerra de la Espriella	1	1
+Antonio Valencia Duque	1	1
+Armando Alberto Benedetti Villaneda	1	0
+Arturo Char Chaljub 	0	0
+Bernabé Celis Carrillo	0	0
+Camilo Armando Sánchez Ortega	0	0
+Carlina de los Angeles Rodríguez Rodríguez	0	0
+Carlos Armando García Orjuela	1	0
+Carlos Cárdenas Ortiz	0	0
+Carlos Eduardo Enríquez Maya	1	0
+Carlos Emiro Barriga Peñaranda	1	1
+Carlos Enrique Alvarado Chávez	0	0
+Carlos Julio González Villa	0	0
+Carlos Roberto Ferro Solanilla	0	0
+Cecilia López Montaño	0	0
+Charles William Schultz Navarro	0	0
+Ciro Ramírez Pinzón	1	1
+Cristóbal Rufino Córdoba Mosquera	0	0
+Daira de Jesús Galvis Méndez	0	0
+Darío Angarita Medellín	0	0
+David Char Navas	1	1
+Dieb Nicolás Maloof Cusé	1	1
+Dilian Francisca Toro Torres	1	0
+Edgar Artunduaga Sánchez	0	0
+Edgar Espíndola Niño	0	0
+Efraín José Cepeda Sarabia	0	0
+Efraín Torrado García	0	0
+Elsa Gladys Cifuentes Aranzazu	0	0
+Emma Claudia Castellanos	0	0
+Enrique Gómez Hurtado	0	0
+Ernesto Ramiro Estacio	0	0
+Gabriel Acosta Bendek	0	0
+Gabriel Ignacio Zapata Correa	1	0
+Germán Antonio Aguirre Muñoz	0	0
+Germán Vargas Lleras	0	0
+Germán Villegas Villegas	0	0
+Gina Parody D'Echeona	0	0
+Gloria Inés Ramírez Ríos	0	0
+Gloria Isabel Cuartas Montoya	0	0
+Griselda Janeth Restrepo Gallego	0	0
+Guillermo Alfonso Jaramillo Martínez	0	0
+Guillermo García Realpe	0	0
+Guillermo Gaviria Zapata	1	1
+Gustavo Francisco Petro Urrego	0	0
+Habib Merheg Marún	1	1
+Héctor Helí Rojas Jiménez	0	0
+Hernán Francisco Andrade Serrano	0	0
+Hugo Serrano Gómez	0	0
+Humberto de Jesús Builes Correa	1	1
+Iván Díaz Mateus	1	1
+Jacobo Faustino Gómez Toro	0	0
+Jaime Dussán Calderón	0	0
+Jaime Ernesto Canal Alban	0	0
+Jairo de Jesús Tapias Ospina	0	0
+Jairo Enrique Merlano Fernández	1	1
+Jairo Mantilla Colmenares	0	0
+Jairo Raúl Clopatofsky Ghisays	0	0
+Javier Enrique Cáceres Leal	1	1
+Jesús Antonio Bernal Amorocho	0	0
+Jesús Enrique Piñacué Achicué	0	0
+Jesús Ignacio García Valencia	0	0
+Jesús León Puello Chamie	0	0
+Jorge Anibal Visbal Martelo	1	1
+Jorge Antonio Trujillo Sarmiento	0	0
+Jorge Aurelio Iragorri Hormaza	0	0
+Jorge de Jesús Castro Pacheco	1	1
+Jorge Eliécer Ballesteros Bernier	0	0
+Jorge Eliécer Guevara	0	0
+Jorge Enrique Gómez Montealegre	0	0
+Jorge Enrique Robledo Castillo	0	0
+Jorge Enrique Vélez García	0	0
+Jorge Hernando Pedraza Gutiérrez	0	0
+Jorge Ubeimar Delgado Blandón	0	0
+José Darío Salazar Cruz	0	0
+José David Name Cardozo	0	0
+José Gonzalo Gutiérrez	0	0
+Juan Carlos Martínez Sinisterra	1	1
+Juan Carlos Restrepo Escobar	1	1
+Juan Carlos Vélez Uribe	0	0
+Juan de Jesús Cárdenas Chávez	0	0
+Juan Fernando Cristo Bustos	0	0
+Juan Manuel Corzo Román	1	0
+Juan Manuel Galán Pachón	0	0
+Juan Manuel López Cabrales 	1	1
+Julio Alberto Manzur Abdala	0	0
+Luis Alberto Gil Castillo	1	1
+Luis Carlos Avellaneda Tarazona	0	0
+Luis Carlos Torres Rueda	1	1
+Luis Eduardo Vives Lacouture	1	1
+Luis Élmer Arenas Parra	0	0
+Luis Emilio Sierra Grajales	0	0
+Luis Fernando Duque García	0	0
+Luis Fernando Velasco Cháves	1	0
+Luis Guillermo Vélez Trujillo	0	0
+Luis Humberto Gómez Gallo	1	1
+Luzelena Restrepo Betancourt	0	0
+Manuel Antonio Virgüez Piraquive	0	0
+Manuel Guillermo Mora Jaramillo	1	0
+Manuel Mesías Enríquez Rosero	0	0
+Manuel Ramiro Velásquez Arroyave	0	0
+Marco Alirio Cortés Torres	1	1
+María Isabel Mejía Marulanda	0	0
+Mario Enrique Varón Olarte	0	0
+Mario Londoño Arcila	0	0
+Mario Salomón  Náder Muskus 	1	1
+Mario Uribe Escobar	1	1
+Martha Lucía Ramírez de Rincón	0	0
+Mauricio Jaramillo Martínez	1	0
+Mauricio Pimiento Barrera	1	1
+Miguel Alfonso de la Espriella Burgos	1	1
+Miguel Pinedo Vidal	1	1
+Milton Arlex Rodríguez Sarmiento	0	0
+Nancy Patricia Gutiérrez Castañeda	1	0
+Néstor Iván Moreno Rojas	0	0
+Olano Portela Rodríguez	0	0
+Omar Yepes Alzate	0	0
+Oscar Darío Pérez Pineda	0	0
+Óscar de Jesús  Suárez Mira	1	1
+Oscar Josué Reyes Cárdenas	1	1
+Parmenio Cuellar Bastidas	0	0
+Piedad del Socorro Zuccardi de García	1	1
+Piedad Esneda Córdoba Ruiz	0	0
+Plinio Edilberto Olano Becerra	0	0
+Ramón Elías López Sabogal	0	0
+Reginaldo Enrique Montes Álvarez 	1	1
+Ricardo Arias Mora	0	0
+Ricardo Ariel Elcure Chacón	1	1
+Roberto Victor Gerlein Echeverria	0	0
+Rodrigo Lara Restrepo	0	0
+Rubén Darío Quintero Villada	1	1
+Samuel Benjamín Arrieta Buelvas	0	0
+Tulio César Bernal Bacca	0	0
+Vicente Blel Saad	1	1
+Víctor Renán Barco López	1	1
+Víctor Velásquez Reyes	0	0
+William Alfonso Montes Medina	1	1
+Yolanda Pinto Afanador de Gaviria	0	0
+Zulema del Carmen Jattin Corrales	1	1
